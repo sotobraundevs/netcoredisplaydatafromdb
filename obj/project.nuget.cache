@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KvVCNJGiA3N0uzZ82UsNoLJfBdnK8vn7sk0JxxfAYvH7MfOB6prBvYhlinCj4M7yljxZ1zvXgFOVLcDnNducwA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\asoto\\source\\repos\\Display Data from db\\Display Data from db\\Display Data from db.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asoto\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

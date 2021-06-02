@@ -1,0 +1,37 @@
+C:\Users\asoto\source\repos\Display Data from db\Display Data from db\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\asoto\source\repos\Display Data from db\Display Data from db\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\asoto\source\repos\Display Data from db\Display Data from db\bin\Debug\netcoreapp3.1\Display Data from db.exe
+C:\Users\asoto\source\repos\Display Data from db\Display Data from db\bin\Debug\netcoreapp3.1\Display Data from db.deps.json
+C:\Users\asoto\source\repos\Display Data from db\Display Data from db\bin\Debug\netcoreapp3.1\Display Data from db.runtimeconfig.json
+C:\Users\asoto\source\repos\Display Data from db\Display Data from db\bin\Debug\netcoreapp3.1\Display Data from db.runtimeconfig.dev.json
+C:\Users\asoto\source\repos\Display Data from db\Display Data from db\bin\Debug\netcoreapp3.1\Display Data from db.dll
+C:\Users\asoto\source\repos\Display Data from db\Display Data from db\bin\Debug\netcoreapp3.1\Display Data from db.pdb
+C:\Users\asoto\source\repos\Display Data from db\Display Data from db\bin\Debug\netcoreapp3.1\Display Data from db.Views.dll
+C:\Users\asoto\source\repos\Display Data from db\Display Data from db\bin\Debug\netcoreapp3.1\Display Data from db.Views.pdb
+C:\Users\asoto\source\repos\Display Data from db\Display Data from db\obj\Debug\netcoreapp3.1\Display Data from db.csprojAssemblyReference.cache
+C:\Users\asoto\source\repos\Display Data from db\Display Data from db\obj\Debug\netcoreapp3.1\Display Data from db.AssemblyInfoInputs.cache
+C:\Users\asoto\source\repos\Display Data from db\Display Data from db\obj\Debug\netcoreapp3.1\Display Data from db.AssemblyInfo.cs
+C:\Users\asoto\source\repos\Display Data from db\Display Data from db\obj\Debug\netcoreapp3.1\Display Data from db.csproj.CoreCompileInputs.cache
+C:\Users\asoto\source\repos\Display Data from db\Display Data from db\obj\Debug\netcoreapp3.1\Display Data from db.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\asoto\source\repos\Display Data from db\Display Data from db\obj\Debug\netcoreapp3.1\Display Data from db.RazorAssemblyInfo.cache
+C:\Users\asoto\source\repos\Display Data from db\Display Data from db\obj\Debug\netcoreapp3.1\Display Data from db.RazorAssemblyInfo.cs
+C:\Users\asoto\source\repos\Display Data from db\Display Data from db\obj\Debug\netcoreapp3.1\staticwebassets\Display Data from db.StaticWebAssets.Manifest.cache
+C:\Users\asoto\source\repos\Display Data from db\Display Data from db\obj\Debug\netcoreapp3.1\staticwebassets\Display Data from db.StaticWebAssets.xml
+C:\Users\asoto\source\repos\Display Data from db\Display Data from db\obj\Debug\netcoreapp3.1\scopedcss\bundle\Display Data from db.styles.css
+C:\Users\asoto\source\repos\Display Data from db\Display Data from db\obj\Debug\netcoreapp3.1\Display Data from db.TagHelpers.input.cache
+C:\Users\asoto\source\repos\Display Data from db\Display Data from db\obj\Debug\netcoreapp3.1\Display Data from db.TagHelpers.output.cache
+C:\Users\asoto\source\repos\Display Data from db\Display Data from db\obj\Debug\netcoreapp3.1\Display Data from db.RazorCoreGenerate.cache
+C:\Users\asoto\source\repos\Display Data from db\Display Data from db\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\asoto\source\repos\Display Data from db\Display Data from db\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\asoto\source\repos\Display Data from db\Display Data from db\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\asoto\source\repos\Display Data from db\Display Data from db\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\asoto\source\repos\Display Data from db\Display Data from db\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\asoto\source\repos\Display Data from db\Display Data from db\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\asoto\source\repos\Display Data from db\Display Data from db\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\asoto\source\repos\Display Data from db\Display Data from db\obj\Debug\netcoreapp3.1\Display Data from db.RazorTargetAssemblyInfo.cache
+C:\Users\asoto\source\repos\Display Data from db\Display Data from db\obj\Debug\netcoreapp3.1\Display Data from db.RazorTargetAssemblyInfo.cs
+C:\Users\asoto\source\repos\Display Data from db\Display Data from db\obj\Debug\netcoreapp3.1\Display Data from db.Views.pdb
+C:\Users\asoto\source\repos\Display Data from db\Display Data from db\obj\Debug\netcoreapp3.1\Display Data from db.dll
+C:\Users\asoto\source\repos\Display Data from db\Display Data from db\obj\Debug\netcoreapp3.1\Display Data from db.pdb
+C:\Users\asoto\source\repos\Display Data from db\Display Data from db\obj\Debug\netcoreapp3.1\Display Data from db.genruntimeconfig.cache
+C:\Users\asoto\source\repos\Display Data from db\Display Data from db\obj\Debug\netcoreapp3.1\Display Data from db.csproj.CopyComplete
