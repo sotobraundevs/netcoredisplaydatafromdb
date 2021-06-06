@@ -35,3 +35,12 @@ C:\Users\asoto\source\repos\Display Data from db\Display Data from db\obj\Debug\
 C:\Users\asoto\source\repos\Display Data from db\Display Data from db\obj\Debug\netcoreapp3.1\Display Data from db.pdb
 C:\Users\asoto\source\repos\Display Data from db\Display Data from db\obj\Debug\netcoreapp3.1\Display Data from db.genruntimeconfig.cache
 C:\Users\asoto\source\repos\Display Data from db\Display Data from db\obj\Debug\netcoreapp3.1\Display Data from db.csproj.CopyComplete
+C:\Users\asoto\source\repos\Display Data from db\Display Data from db\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.Types.dll
+C:\Users\asoto\source\repos\Display Data from db\Display Data from db\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\asoto\source\repos\Display Data from db\Display Data from db\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\asoto\source\repos\Display Data from db\Display Data from db\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\asoto\source\repos\Display Data from db\Display Data from db\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\asoto\source\repos\Display Data from db\Display Data from db\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\asoto\source\repos\Display Data from db\Display Data from db\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\asoto\source\repos\Display Data from db\Display Data from db\obj\Debug\netcoreapp3.1\Display_Data_from_db.Properties.Resources.resources
+C:\Users\asoto\source\repos\Display Data from db\Display Data from db\obj\Debug\netcoreapp3.1\Display Data from db.csproj.GenerateResource.cache
